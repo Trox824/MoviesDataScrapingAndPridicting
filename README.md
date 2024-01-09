@@ -1,4 +1,4 @@
 # MoviesDataScrapingAndPridicting
-I done a personal project that scraping data from IMDB website with 2000 top movies of all time with different field and using that to predict whether a movies have drama genre or not.
+I have done a personal project that scraped data from the IMDB website with different fields and used that to predict the genre of the movies.
  <br> Data: https://www.kaggle.com/datasets/aakashsaroop/movie-genreplotposter
- <br> huggingface Hub: https://huggingface.co/tuanHenry/distilbert_base_uncased_Movies_predict
+ <br> hugging face Hub: https://huggingface.co/tuanHenry/distilbert_base_uncased_Movies_predict
